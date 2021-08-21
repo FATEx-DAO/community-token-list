@@ -1,15 +1,15 @@
 {
-  "name": "Venomswap Community",
-  "timestamp": "2021-08-21T01:27:19.286Z",
+  "name": "FATExDAO Community",
+  "timestamp": "2021-08-21T01:29:52.771Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/logos/venomswap-128x128.png",
+  "logoURI": "https://fatex.io/fatex-token-logo-large.png",
   "keywords": [
-    "venomswap",
+    "fatex",
     "community"
   ],
   "tokens": [
