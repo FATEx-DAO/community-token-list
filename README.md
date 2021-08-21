@@ -7,7 +7,7 @@ This NPM module and GitHub repo contains the default token list that is contribu
 
 ## Adding a token
 
-To add a token to the community list, submit a PR that modifies harmony-mainnet.json to include your token.
+To add a token to the community list, submit a PR that modifies `harmony-mainnet.json` to include your token.
 
 ### Disclaimer
 
