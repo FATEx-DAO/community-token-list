@@ -1,9 +1,9 @@
-# @VenomProtocol/venomswap-community-token-list
+# @fatex-dao/community-token-list
 
-[![Tests](https://github.com/Uniswap/token-lists/workflows/Tests/badge.svg)](https://github.com/VenomProtocol/venomswap-community-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@VenomProtocol/venomswap-community-token-list)](https://unpkg.com/@VenomProtocol/venomswap-community-token-list@latest/)
+[![Tests](https://github.com/FATEx-DAO/community-token-list/workflows/Tests/badge.svg)](https://github.com/FATEx-DAO/community-token-list/actions?query=workflow%3ATests)
+[![npm](https://img.shields.io/npm/v/@fatex-dao/community-token-list)](https://unpkg.com/@fatex-dao/community-token-list@latest/)
 
-This NPM module and GitHub repo contains the default token list used in the Uniswap interface.
+This NPM module and GitHub repo contains the default token list that is contributed to by the community and added to the FATEx DEX.
 
 ## Adding a token
 
