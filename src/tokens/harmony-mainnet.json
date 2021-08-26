@@ -1,7 +1,7 @@
 [
   {
     "chainId": 1666600000,
-    "address": "0x38ACD5aEFc372E21C0f031aa831B0a390b85aA88",
+    "address": "0xB2e2650DFdb7b2DEc4a4455a375ffBfD926cE5FC",
     "symbol": "FATE",
     "name": "FATExDAO Token",
     "decimals": 18,
@@ -9,7 +9,7 @@
   },
   {
     "chainId": 1666600000,
-    "address": "0xd83D94e5b989E137D3d2573e96aD48fE9f7E73EC",
+    "address": "0x6f4078cb47438157c914409d10358a0Cf4b06AB7",
     "symbol": "xFATE",
     "name": "xFATExDAO Token",
     "decimals": 18,
