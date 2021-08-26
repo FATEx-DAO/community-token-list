@@ -1,6 +1,6 @@
 {
   "name": "@fatex-dao/community-token-list",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "The FATExDAO community-led token list",
   "main": "build/fatex-dao-community.tokenlist.json",
   "scripts": {
