@@ -1,6 +1,6 @@
 {
   "name": "@fatex-dao/community-token-list",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "The FATExDAO community-led token list",
   "main": "build/fatex-dao-community.tokenlist.json",
   "scripts": {
@@ -21,7 +21,7 @@
     "token",
     "list"
   ],
-  "author": "Moody Salem",
+  "author": "FATExDAO Community",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/FATEx-DAO/community-token-list/issues"
